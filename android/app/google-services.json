@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "355267787720",
+    "project_id": "flutter-firebase-todo-f61ec",
+    "storage_bucket": "flutter-firebase-todo-f61ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355267787720:android:8469fc92058e3fc87d1efd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355267787720-iq2eiaqlm3fvua6134unirv3uslb6the.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUn0YCwLAvBtu_uFEEawLIXZ298f9Da6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355267787720-iq2eiaqlm3fvua6134unirv3uslb6the.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "355267787720-jpn6tl48bugkkhrdfh3miuj6a4rpp49r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterLearning"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
