@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
           // Define the default font family.
           // fontFamily: GoogleFonts.poppins(textStyle:),
         ),
-        title: 'flutter todo - firebase',
+        title: 'flutter expenses - firebase',
         onGenerateRoute: AppRouter().onGenerateRoute,
       ),
     );
